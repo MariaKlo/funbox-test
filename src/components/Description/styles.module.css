@@ -1,0 +1,17 @@
+.selectedState {
+    color: #fff;
+}
+
+.link {
+    color: #fff;
+}
+
+.link span {
+    color: #1698d9;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.disabledState {
+    color: #ffff66;
+}
