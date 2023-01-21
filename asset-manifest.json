@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "static/css/main.a84a2763.css",
-    "main.js": "static/js/main.f366c874.js",
-    "static/media/background.jpg": "static/media/background.de22ff5b49333e262900.jpg",
-    "static/media/Photo.png": "static/media/Photo.123df8e0689e62339504.png",
-    "static/media/Exo2.0-Thin.otf": "static/media/Exo2.0-Thin.51c257bfa8ec3e0cfb4b.otf",
-    "index.html": "/index.html",
-    "main.a84a2763.css.map": "static/css/main.a84a2763.css.map",
-    "main.f366c874.js.map": "static/js/main.f366c874.js.map"
+    "main.css": "/MariaKlo/funbox-test.git/static/css/main.dc2541ab.css",
+    "main.js": "/MariaKlo/funbox-test.git/static/js/main.0be392ed.js",
+    "static/media/background.jpg": "/MariaKlo/funbox-test.git/static/media/background.de22ff5b49333e262900.jpg",
+    "static/media/Photo.png": "/MariaKlo/funbox-test.git/static/media/Photo.123df8e0689e62339504.png",
+    "static/media/Exo2.0-Thin.otf": "/MariaKlo/funbox-test.git/static/media/Exo2.0-Thin.51c257bfa8ec3e0cfb4b.otf",
+    "index.html": "/MariaKlo/funbox-test.git/index.html",
+    "main.dc2541ab.css.map": "/MariaKlo/funbox-test.git/static/css/main.dc2541ab.css.map",
+    "main.0be392ed.js.map": "/MariaKlo/funbox-test.git/static/js/main.0be392ed.js.map"
   },
-  "entrypoints": ["static/css/main.a84a2763.css", "static/js/main.f366c874.js"]
+  "entrypoints": [
+    "static/css/main.dc2541ab.css",
+    "static/js/main.0be392ed.js"
+  ]
 }
